@@ -15,7 +15,7 @@
        {
            "id": 2,
            "name": "Bulbasaur",
-           "description": "Pokemon basico, poder hoja afilada 70, debilidad x2, retirada",
+           "description": "Pokemon basico, poder hoja afilada 60, debilidad x2, retirada",
            "image": "https://www.pokexperto.net/cartadex/SM35/SM35_EN_1.png"
        }
    ]
