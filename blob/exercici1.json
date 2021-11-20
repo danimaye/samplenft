@@ -1,0 +1,22 @@
+{
+   "tokens": [
+       {
+           "id": 0,
+           "name": "Pikachu",
+           "description": "Pokemon basico, poder onda trueno 70, debilidad x2, resistencia -20",
+           "image": "https://www.pokexperto.net/cartadex/SMP/SMP_EN_SM4.png"
+       },
+       {
+           "id": 1,
+           "name": "Charmander",
+           "description": "Pokemon basico, poder arañazo 10, debilidad x2, retirada",
+           "image": "https://www.pokexperto.net/cartadex/SM3/SM3_EN_18.png"
+       },
+       {
+           "id": 2,
+           "name": "Bulbasaur",
+           "description": "Pokemon basico, poder hoja afilada 70, debilidad x2, retirada",
+           "image": "https://www.pokexperto.net/cartadex/SM35/SM35_EN_1.png"
+       }
+   ]
+}
